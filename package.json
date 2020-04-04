@@ -1,0 +1,27 @@
+{
+  "name": "control-panel",
+  "version": "0.1.0",
+  "description": "Create a Control panel for my server! with node and build for electron app.",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AlexVanSteenhoven/server-cp.git"
+  },
+  "keywords": [
+    "control",
+    "panel",
+    "nodejs",
+    "mysql",
+    "server",
+    "database"
+  ],
+  "author": "Alex van Steenhoven <alex.steenhoven@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexVanSteenhoven/server-cp/issues"
+  },
+  "homepage": "https://github.com/AlexVanSteenhoven/server-cp#readme"
+}

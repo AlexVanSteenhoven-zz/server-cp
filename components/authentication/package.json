@@ -1,0 +1,19 @@
+{
+  "name": "omv-cp-auth",
+  "version": "0.1.0",
+  "description": "Login system",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "author": "Alex van Steenhoven <alex.steenhoven@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.0.2",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.2"
+  }
+}
